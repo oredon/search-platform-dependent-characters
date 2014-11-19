@@ -1,0 +1,15 @@
+{
+  "name": "search-platform-dependent-characters",
+  "main": "./lib/search-platform-dependent-characters",
+  "version": "0.2.0",
+  "description": "A short description of your package",
+  "activationCommands": {
+    "atom-workspace": "search-platform-dependent-characters:checkSelection"
+  },
+  "repository": "https://github.com/oredon/search-platform-dependent-characters.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "dependencies": {}
+}
