@@ -1,7 +1,7 @@
 {
   "name": "search-platform-dependent-characters",
   "main": "./lib/search-platform-dependent-characters",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "A short description of your package",
   "activationCommands": {
     "atom-workspace": "search-platform-dependent-characters:checkSelection"
